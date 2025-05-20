@@ -1,0 +1,9 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+#viewer {
+    border: 1px solid #4b5563;
+    border-radius: 0.375rem;
+    background-color: #1f2937;
+}
